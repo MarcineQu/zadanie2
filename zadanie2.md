@@ -10,3 +10,6 @@
 
 **Nie użyłem github packages, bo ciągle miałem błąd**
 ![image](https://github.com/MarcineQu/zadanie2/assets/83167368/bc426b52-e486-45f7-9ecc-61e50780c710)
+
+**Workflow:**
+![image](https://github.com/MarcineQu/zadanie2/assets/83167368/03705616-a926-4c8c-8e23-863aa1208fca)
